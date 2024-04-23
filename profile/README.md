@@ -1,5 +1,5 @@
 
-# DSA-Sourav
+# CSE-Sourav
 
-# My own route to DSA
-[By Sourav Gope](https://t.me/sourav2k)
+# My own route to CSE
+[By Sourav Gope](https://t.me/isouravgope)
